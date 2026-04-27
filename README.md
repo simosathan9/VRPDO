@@ -9,7 +9,7 @@ This repository hosts the two established VRPDO benchmark sets used to evaluate 
 ```
 .
 ├── Tilk_et_al_2021/    # Small-scale benchmarks (Tilk et al., 2021)
-├── second_dataset/   # Large-scale benchmarks (Dumez et al., 2021)
+├── Dumez_et_al_2021/   # Large-scale benchmarks (Dumez et al., 2021)
 └── README.md
 ```
 
@@ -51,4 +51,4 @@ Each file describes a single VRPDO instance: depot, customers, delivery options 
 
 The code and solutions in this repository are released under the MIT License (see `LICENSE`).
 
-The benchmark instances under `Tilk_et_al_2021/` and `second_dataset/` are redistributed for research convenience and remain subject to the terms of their original sources (see references above). Please cite the original papers when using these instances.
+The benchmark instances under `Tilk_et_al_2021/` and `Dumez_et_al_2021/` are redistributed for research convenience and remain subject to the terms of their original sources (see references above). Please cite the original papers when using these instances.
