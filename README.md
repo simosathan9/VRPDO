@@ -10,6 +10,7 @@ This repository hosts the two established VRPDO benchmark sets used to evaluate 
 .
 ├── Tilk_et_al_2021/    # Small-scale benchmarks (Tilk et al., 2021)
 ├── Dumez_et_al_2021/   # Large-scale benchmarks (Dumez et al., 2021)
+├── Analytical_Solutions
 └── README.md
 ```
 
