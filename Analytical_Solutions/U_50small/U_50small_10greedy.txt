@@ -1,0 +1,155 @@
+Feasible
+Restart 8, Repetition 9034 
+
+
+Total cost: 3387
+
+Number of Routes: 6
+Priority 1: 0.8
+
+Priority 2: 0.94
+
+
+
+Route 0
+Location Option Customer
+
+0 - -
+
+10 19 19
+
+5 14 14
+
+54 3 3
+
+54 42 30
+
+58 9 9
+
+53 47 32
+
+53 78 42
+
+53 27 23
+
+53 44 31
+
+50 98 49
+
+0 - -
+
+Route 1
+Location Option Customer
+
+0 - -
+
+39 82 44
+
+55 4 4
+
+55 5 5
+
+55 2 2
+
+55 75 41
+
+59 33 26
+
+59 53 34
+
+59 0 0
+
+59 8 8
+
+0 - -
+
+Route 2
+Location Option Customer
+
+0 - -
+
+26 55 35
+
+13 24 22
+
+43 88 46
+
+6 15 15
+
+37 79 43
+
+19 36 28
+
+12 22 21
+
+52 60 36
+
+4 13 13
+
+7 16 16
+
+0 - -
+
+Route 3
+Location Option Customer
+
+0 - -
+
+8 17 17
+
+24 49 33
+
+45 91 47
+
+60 7 7
+
+3 12 12
+
+29 64 38
+
+32 71 40
+
+2 11 11
+
+0 - -
+
+Route 4
+Location Option Customer
+
+0 - -
+
+15 28 24
+
+20 38 29
+
+41 85 45
+
+0 - -
+
+Route 5
+Location Option Customer
+
+0 - -
+
+9 18 18
+
+52 31 25
+
+52 6 6
+
+52 1 1
+
+1 10 10
+
+56 63 37
+
+56 35 27
+
+51 21 20
+
+51 69 39
+
+51 96 48
+
+0 - -
+

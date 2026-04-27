@@ -1,0 +1,84 @@
+Feasible
+Restart 3, Repetition 13686 
+
+
+Total cost: 2538
+
+Number of Routes: 3
+Priority 1: 0.8
+
+Priority 2: 0.92
+
+
+
+Route 0
+Location Option Customer
+
+0 - -
+
+10 18 14
+
+27 1 1
+
+27 24 16
+
+27 30 18
+
+27 3 3
+
+0 - -
+
+Route 1
+Location Option Customer
+
+0 - -
+
+11 20 15
+
+1 5 5
+
+2 6 6
+
+3 7 7
+
+13 26 17
+
+5 9 9
+
+20 41 22
+
+30 11 10
+
+30 4 4
+
+4 8 8
+
+0 - -
+
+Route 2
+Location Option Customer
+
+0 - -
+
+19 39 21
+
+15 32 19
+
+25 48 24
+
+26 37 20
+
+26 0 0
+
+26 17 13
+
+28 15 12
+
+28 46 23
+
+29 13 11
+
+29 2 2
+
+0 - -
+

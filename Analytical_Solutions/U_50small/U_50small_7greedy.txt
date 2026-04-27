@@ -1,0 +1,155 @@
+Feasible
+Restart 0, Repetition 5705 
+
+
+Total cost: 3066
+
+Number of Routes: 6
+Priority 1: 0.8
+
+Priority 2: 0.98
+
+
+
+Route 0
+Location Option Customer
+
+0 - -
+
+6 15 15
+
+15 28 24
+
+14 26 23
+
+57 72 40
+
+57 8 8
+
+57 6 6
+
+0 - -
+
+Route 1
+Location Option Customer
+
+0 - -
+
+58 9 9
+
+58 5 5
+
+58 62 37
+
+60 31 25
+
+60 3 3
+
+60 60 36
+
+7 16 16
+
+20 38 29
+
+0 - -
+
+Route 2
+Location Option Customer
+
+0 - -
+
+8 17 17
+
+9 18 18
+
+1 10 10
+
+53 4 4
+
+53 96 48
+
+53 7 7
+
+53 65 38
+
+53 47 32
+
+25 52 34
+
+3 12 12
+
+0 - -
+
+Route 3
+Location Option Customer
+
+0 - -
+
+5 14 14
+
+10 19 19
+
+2 11 11
+
+59 99 49
+
+59 81 43
+
+59 0 0
+
+59 37 28
+
+55 93 47
+
+55 1 1
+
+55 2 2
+
+0 - -
+
+Route 4
+Location Option Customer
+
+0 - -
+
+44 89 46
+
+4 13 13
+
+42 86 45
+
+54 75 41
+
+54 41 30
+
+54 33 26
+
+0 - -
+
+Route 5
+Location Option Customer
+
+0 - -
+
+52 50 33
+
+52 57 35
+
+52 35 27
+
+56 69 39
+
+56 23 21
+
+56 45 31
+
+56 25 22
+
+56 78 42
+
+51 21 20
+
+51 84 44
+
+0 - -
+
